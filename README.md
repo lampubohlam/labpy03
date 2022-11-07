@@ -58,6 +58,23 @@ dan jalankan filenya maka akan seperti ini
           print(c, a, b)
        else:
         print(c, b, a)
+#perulangan 
+ 1) latihan perulangan seperti berikut
+ ![perulangan](https://user-images.githubusercontent.com/116137169/200244639-6a6f9914-535c-41c0-9280-4f6a829325f5.png)
+  buat file terlebih dahulu 
+  petana-tama masukan kode coding seperti gambar dibawah ini
+  ![Screenshot (100)](https://user-images.githubusercontent.com/116137169/200244957-d8d54d3d-445d-4817-94d9-65d8bd1c7ae4.png)
+ lalu klik run dan jalankan programnya
+ ![Screenshot (101)](https://user-images.githubusercontent.com/116137169/200245763-5b7ed363-5cf2-4b94-92ca-af35657db341.png)
+   
+   berikut codingnya
+   
+          for i in range(0,10):
+    print()
+    print(i, end="\t")
+    for j in range(1,10):
+        print(i+j,end="\t")
+
 
 
 
